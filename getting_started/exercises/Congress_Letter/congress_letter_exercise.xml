@@ -74,7 +74,6 @@
 	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509152624180",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-05-09T19:26:24.180Z",
-	"dcterms:modified": "2023-05-09T19:26:24.180Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -101,7 +100,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509152624180#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/closer/signed/persName"
+			"rdf:value": "TEI/text/body/closer/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -144,12 +143,12 @@
 				floor of Congress and so may be said to be heard there, women
 				who are allowed no vote and therefore no representation cannot truly be heard except
 				as Congress shall open its doors to us in person.</p>
-			<closer><signed><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName>
-				<persName>Isabella Beecher Hooker</persName> 
+			<closer><persName key="Elizabeth Cady Stanton" ref="http://www.wikidata.org/entity/Q465335">Elizabeth Cady Stanton</persName>
+				<persName key="Isabella Beecher Hooker" ref="http://www.wikidata.org/entity/Q13390410">Isabella Beecher Hooker</persName>
 				<persName>Elizabeth S. Bladen</persName>
 				<persName>Olympia Brown</persName>
 				<persName>Susan B. Anthony</persName>
-				<persName>Josephine S. Griffing</persName></signed>
+				<persName>Josephine S. Griffing</persName>
 				<dateline>Hartford Conn. Dec. 1871</dateline></closer>
 		</body>
 	</text>

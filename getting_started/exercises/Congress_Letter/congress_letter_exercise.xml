@@ -71,10 +71,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509152624180",
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160321117",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-09T19:26:24.180Z",
-	"dcterms:modified": "2023-05-09T20:03:21.117Z",
+	"dcterms:created": "2023-05-09T20:03:21.117Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -85,7 +84,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509152624180#Target",
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160321117#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
@@ -99,7 +98,7 @@
 			"schema:softwareVersion": "3.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509152624180#Selector",
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160321117#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/persName"
 		}
@@ -383,10 +382,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155752316",
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160126268",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-09T19:57:52.316Z",
-	"dcterms:modified": "2023-05-09T20:01:26.268Z",
+	"dcterms:created": "2023-05-09T20:01:26.268Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -397,7 +395,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155752316#Target",
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160126268#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
@@ -411,7 +409,7 @@
 			"schema:softwareVersion": "3.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155752316#Selector",
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509160126268#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/persName[5]"
 		}
@@ -427,7 +425,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.0.1"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -462,10 +461,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155907812",
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155929498",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-09T19:59:07.812Z",
-	"dcterms:modified": "2023-05-09T19:59:29.498Z",
+	"dcterms:created": "2023-05-09T19:59:29.498Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -476,7 +474,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155907812#Target",
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155929498#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
@@ -490,7 +488,7 @@
 			"schema:softwareVersion": "3.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155907812#Selector",
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230509155929498#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/persName[6]"
 		}
@@ -498,6 +496,85 @@
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://viaf.org/viaf/77880336/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20230509161049140",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-09T20:10:49.140Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/inokhrin",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Illya Nokhrin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20230509161049140#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20230509161049140#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/closer/dateline/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q33486",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -541,10 +618,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20230509160849667",
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?date_annotation_20230509161631392",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-09T20:08:49.667Z",
-	"dcterms:modified": "2023-05-09T20:10:49.140Z",
+	"dcterms:created": "2023-05-09T20:16:31.392Z",
+	"dcterms:modified": "2023-05-09T20:16:31.392Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -555,7 +632,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20230509160849667#Target",
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?date_annotation_20230509161631392#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
@@ -569,15 +646,14 @@
 			"schema:softwareVersion": "3.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20230509160849667#Selector",
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?date_annotation_20230509161631392#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/closer/dateline/placeName"
+			"rdf:value": "TEI/text/body/closer/dateline/date"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q33486",
-		"dc:format": "text/plain"
+		"@type": "xsd:date",
+		"rdf:value": "1871-12"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -618,7 +694,7 @@
 				<persName>Elizabeth S. Bladen</persName>
 <persName> Olympia Brown </persName>				<persName key="Susan B. Anthony" ref="http://www.wikidata.org/entity/Q192245" cert="high" type="real" role="sgn">Susan B. Anthony</persName>
 				<persName key="Griffing, Josephine W. 1814-1872" ref="http://viaf.org/viaf/77880336/" cert="high" type="real">Josephine S. Griffing</persName>
-				<dateline><placeName key="Hartford" ref="http://www.wikidata.org/entity/Q33486">Hartford Conn.</placeName> Dec. 1871</dateline></closer>
+				<dateline><placeName key="Hartford" ref="http://www.wikidata.org/entity/Q33486">Hartford Conn.</placeName> <date when="1871-12">Dec. 1871</date></dateline></closer>
 		</body>
 	</text>
 </TEI>

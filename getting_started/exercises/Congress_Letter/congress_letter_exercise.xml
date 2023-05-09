@@ -699,7 +699,7 @@
 	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509161913836",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-05-09T20:19:13.836Z",
-	"dcterms:modified": "2023-05-09T20:19:13.836Z",
+	"dcterms:modified": "2023-05-09T20:21:43.808Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -772,7 +772,7 @@
 				<persName key="Isabella Beecher Hooker" ref="http://www.wikidata.org/entity/Q13390410">Isabella Beecher Hooker</persName>
 				<persName>Elizabeth S. Bladen</persName>
 <persName> Olympia Brown </persName>				<persName key="Susan B. Anthony" ref="http://www.wikidata.org/entity/Q192245" cert="high" type="real" role="sgn">Susan B. Anthony</persName>
-				<note type="researchNote">This signature appears to be on top of some other writing</note><persName key="Griffing, Josephine W. 1814-1872" ref="http://viaf.org/viaf/77880336/" cert="high" type="real">Josephine S. Griffing</persName>
+				<note type="researchNote" resp="Illya Nokhrin">This signature appears to be on top of some other writing</note><persName key="Griffing, Josephine W. 1814-1872" ref="http://viaf.org/viaf/77880336/" cert="high" type="real">Josephine S. Griffing</persName>
 				<dateline><placeName key="Hartford" ref="http://www.wikidata.org/entity/Q33486">Hartford Conn.</placeName> <date when="1871-12">Dec. 1871</date></dateline></closer>
 		</body>
 	</text>

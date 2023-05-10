@@ -351,6 +351,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml?place_annotation_20230510153544507",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-10T19:35:44.507Z",
+	"dcterms:modified": "2023-05-10T19:35:44.507Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/inokhrin",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Illya Nokhrin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml?place_annotation_20230510153544507#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/MrsDalloway_in_BondStreet/MrsDalloway_in_BondStreet_exercise.xml?place_annotation_20230510153544507#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q41225",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -380,12 +459,12 @@
 
          <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
             noses, you little demon! and there she was left on the kerb stretching her hand out,
-            while Jimmy Dawes grinned on the further side. </p>
+            while <persName>Jimmy Dawes</persName> grinned on the further side. </p>
          <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so <persName cert="high">Scope Purvis, C. B</persName>., saw her as he hurried to his office. She stiffened a little, waiting for
-            <orgName>Durtnall</orgName>'s van to pass. Big Ben struck the tenth; struck the eleventh stroke. The leaden
+            <orgName>Durtnall</orgName>'s van to pass. <placeName key="Big Ben" ref="http://www.wikidata.org/entity/Q41225">Big Ben</placeName> struck the tenth; struck the eleventh stroke. The leaden
             circles dissolved in the air. Pride held her erect, inheriting, handing on, acquainted
             with discipline and with suffering. How people suffered, how they suffered, she thought,
-            thinking of Mrs Foxcroft at the Embassy last night decked with jewels, eating her heart
+            thinking of <persName type="fictional">Mrs Foxcroft</persName> at the Embassy last night decked with jewels, eating her heart
             out, because that nice boy was dead, and now the old Manor House (Durtnall's van passed)
             must go to a cousin.</p>
 

@@ -696,10 +696,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509161913836",
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509162143808",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-05-09T20:19:13.836Z",
-	"dcterms:modified": "2023-05-09T20:21:43.808Z",
+	"dcterms:created": "2023-05-09T20:21:43.808Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/inokhrin",
 		"@type": [
@@ -710,7 +709,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509161913836#Target",
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509162143808#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
@@ -724,7 +723,7 @@
 			"schema:softwareVersion": "3.0.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509161913836#Selector",
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?note_annotation_20230509162143808#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/closer/note"
 		}
@@ -733,6 +732,85 @@
 		"@type": "cwrc:NoteInternal",
 		"dc:format": "text/plain",
 		"rdf:value": "This signature appears to be on top of some other writing"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.0.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230511142355462",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-05-11T18:23:55.462Z",
+	"dcterms:modified": "2023-05-11T18:23:55.462Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/inokhrin",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Illya Nokhrin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230511142355462#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.0.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/inokhrin/leaftraining/main/getting_started/exercises/Congress_Letter/congress_letter_exercise.xml?person_annotation_20230511142355462#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/opener/salute/orgName/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "https://modernistarchives.com/node/70",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -755,7 +833,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
-			<opener><salute>To the Honorable <orgName>the Senate and House of Representatives of the United States in Congress Assembled:</orgName></salute></opener>
+			<opener><salute>To the Honorable <orgName>the <persName key="Senate" ref="https://modernistarchives.com/node/70">Senate</persName> and House of Representatives of the United States in Congress Assembled:</orgName></salute></opener>
 			<p>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
 					right to vote, pray your Honorable Body to
